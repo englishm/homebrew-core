@@ -51,7 +51,7 @@ class RustAnalyzer < Formula
       "jsonrpc":"2.0",
       "id": 1,
       "method":"shutdown",
-      "params": {}
+      "params": null
     }
     EOF
 
